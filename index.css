@@ -1,0 +1,22 @@
+section {
+  border: 4px solid gray;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px gray;
+  float: left;
+  height: 360px;
+  padding: 20px;
+  margin: 10px;
+}
+
+#plotSettings {
+  width: 120px;
+}
+
+.box {
+  width: 120px
+}
+
+button:hover {
+  color: red;
+  border: 2px solid red;
+}
